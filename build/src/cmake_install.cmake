@@ -47,3 +47,8 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("D:/My/codeC/vscodecpp/cmake_test/cmake_planning_demo/build/src/process/cmake_install.cmake")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/My/codeC/vscodecpp/cmake_test/cmake_planning_demo/build/src/show_result/cmake_install.cmake")
+endif()
+

@@ -9,3 +9,6 @@ D:/My/codeC/vscodecpp/cmake_test/cmake_planning_demo/build/src/pnc_map/CMakeFile
 D:/My/codeC/vscodecpp/cmake_test/cmake_planning_demo/build/src/process/CMakeFiles/process.dir
 D:/My/codeC/vscodecpp/cmake_test/cmake_planning_demo/build/src/process/CMakeFiles/edit_cache.dir
 D:/My/codeC/vscodecpp/cmake_test/cmake_planning_demo/build/src/process/CMakeFiles/rebuild_cache.dir
+D:/My/codeC/vscodecpp/cmake_test/cmake_planning_demo/build/src/show_result/CMakeFiles/show_result.dir
+D:/My/codeC/vscodecpp/cmake_test/cmake_planning_demo/build/src/show_result/CMakeFiles/edit_cache.dir
+D:/My/codeC/vscodecpp/cmake_test/cmake_planning_demo/build/src/show_result/CMakeFiles/rebuild_cache.dir

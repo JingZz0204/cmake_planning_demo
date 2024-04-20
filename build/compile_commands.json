@@ -16,5 +16,11 @@
   "command": "D:\\My\\Vscode\\VSCode\\MinGW\\mingw64\\bin\\g++.exe -Dprocess_EXPORTS @CMakeFiles/process.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\process.dir\\process.cpp.obj -c D:\\My\\codeC\\vscodecpp\\cmake_test\\cmake_planning_demo\\src\\process\\process.cpp",
   "file": "D:/My/codeC/vscodecpp/cmake_test/cmake_planning_demo/src/process/process.cpp",
   "output": "src/process/CMakeFiles/process.dir/process.cpp.obj"
+},
+{
+  "directory": "D:/My/codeC/vscodecpp/cmake_test/cmake_planning_demo/build/src/show_result",
+  "command": "D:\\My\\Vscode\\VSCode\\MinGW\\mingw64\\bin\\g++.exe -Dshow_result_EXPORTS @CMakeFiles/show_result.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\show_result.dir\\show_result.cpp.obj -c D:\\My\\codeC\\vscodecpp\\cmake_test\\cmake_planning_demo\\src\\show_result\\show_result.cpp",
+  "file": "D:/My/codeC/vscodecpp/cmake_test/cmake_planning_demo/src/show_result/show_result.cpp",
+  "output": "src/show_result/CMakeFiles/show_result.dir/show_result.cpp.obj"
 }
 ]

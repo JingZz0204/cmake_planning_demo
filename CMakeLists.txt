@@ -12,6 +12,7 @@ set (CMAKE_CXX_STANDARD 11)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/bin)
 set(Procee_Dir ${CMAKE_SOURCE_DIR}/src/process)
 set(Pnc_map_Dir ${CMAKE_SOURCE_DIR}/src/pnc_map)
+set(Show_Dir ${CMAKE_SOURCE_DIR}/src/show_result)
 
 #添加子目录, 这行命令是找src里面的cmakelists
 add_subdirectory(src)
