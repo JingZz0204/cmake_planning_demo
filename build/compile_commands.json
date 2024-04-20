@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/My/codeC/vscodecpp/cmake_test/cmake_planning_demo/build/src",
+  "command": "D:\\My\\Vscode\\VSCode\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/planning_main.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\planning_main.dir\\planning_main.cpp.obj -c D:\\My\\codeC\\vscodecpp\\cmake_test\\cmake_planning_demo\\src\\planning_main.cpp",
+  "file": "D:/My/codeC/vscodecpp/cmake_test/cmake_planning_demo/src/planning_main.cpp",
+  "output": "src/CMakeFiles/planning_main.dir/planning_main.cpp.obj"
+},
+{
+  "directory": "D:/My/codeC/vscodecpp/cmake_test/cmake_planning_demo/build/src/pnc_map",
+  "command": "D:\\My\\Vscode\\VSCode\\MinGW\\mingw64\\bin\\g++.exe -Dpnc_map_EXPORTS  -g -std=gnu++11 -o CMakeFiles\\pnc_map.dir\\pnc_map.cpp.obj -c D:\\My\\codeC\\vscodecpp\\cmake_test\\cmake_planning_demo\\src\\pnc_map\\pnc_map.cpp",
+  "file": "D:/My/codeC/vscodecpp/cmake_test/cmake_planning_demo/src/pnc_map/pnc_map.cpp",
+  "output": "src/pnc_map/CMakeFiles/pnc_map.dir/pnc_map.cpp.obj"
+},
+{
+  "directory": "D:/My/codeC/vscodecpp/cmake_test/cmake_planning_demo/build/src/process",
+  "command": "D:\\My\\Vscode\\VSCode\\MinGW\\mingw64\\bin\\g++.exe -Dprocess_EXPORTS @CMakeFiles/process.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\process.dir\\process.cpp.obj -c D:\\My\\codeC\\vscodecpp\\cmake_test\\cmake_planning_demo\\src\\process\\process.cpp",
+  "file": "D:/My/codeC/vscodecpp/cmake_test/cmake_planning_demo/src/process/process.cpp",
+  "output": "src/process/CMakeFiles/process.dir/process.cpp.obj"
+}
+]

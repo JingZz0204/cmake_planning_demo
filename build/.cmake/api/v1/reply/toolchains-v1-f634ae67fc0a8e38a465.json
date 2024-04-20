@@ -5,52 +5,10 @@
 		{
 			"compiler" : 
 			{
-				"id" : "GNU",
-				"implicit" : 
-				{
-					"includeDirectories" : 
-					[
-						"D:/My/Vscode/VSCode/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include",
-						"D:/My/Vscode/VSCode/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include-fixed",
-						"D:/My/Vscode/VSCode/MinGW/mingw64/x86_64-w64-mingw32/include"
-					],
-					"linkDirectories" : 
-					[
-						"D:/My/Vscode/VSCode/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0",
-						"D:/My/Vscode/VSCode/MinGW/mingw64/lib/gcc",
-						"D:/My/Vscode/VSCode/MinGW/mingw64/x86_64-w64-mingw32/lib",
-						"D:/My/Vscode/VSCode/MinGW/mingw64/lib"
-					],
-					"linkFrameworkDirectories" : [],
-					"linkLibraries" : 
-					[
-						"mingw32",
-						"gcc",
-						"moldname",
-						"mingwex",
-						"kernel32",
-						"pthread",
-						"advapi32",
-						"shell32",
-						"user32",
-						"kernel32",
-						"iconv",
-						"mingw32",
-						"gcc",
-						"moldname",
-						"mingwex",
-						"kernel32"
-					]
-				},
-				"path" : "D:/My/Vscode/VSCode/MinGW/mingw64/bin/gcc.exe",
-				"version" : "13.2.0"
+				"implicit" : {},
+				"path" : "D:/My/Vscode/VSCode/MinGW/mingw64/bin/gcc.exe"
 			},
-			"language" : "C",
-			"sourceFileExtensions" : 
-			[
-				"c",
-				"m"
-			]
+			"language" : "C"
 		},
 		{
 			"compiler" : 
@@ -110,6 +68,7 @@
 				"cc",
 				"cpp",
 				"cxx",
+				"m",
 				"mm",
 				"mpp",
 				"CPP",
